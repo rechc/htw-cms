@@ -1,0 +1,14 @@
+README.txt
+setup.py
+src/bookAdvice/__init__.py
+src/bookAdvice.egg-info/PKG-INFO
+src/bookAdvice.egg-info/SOURCES.txt
+src/bookAdvice.egg-info/dependency_links.txt
+src/bookAdvice.egg-info/entry_points.txt
+src/bookAdvice.egg-info/namespace_packages.txt
+src/bookAdvice.egg-info/not-zip-safe
+src/bookAdvice.egg-info/requires.txt
+src/bookAdvice.egg-info/top_level.txt
+src/bookAdvice/bookAdvice/__init__.py
+src/bookAdvice/bookAdvice/tests.py
+src/bookAdvice/bookAdvice/zope2.py
